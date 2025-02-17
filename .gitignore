@@ -7,6 +7,8 @@ __pycache__/
 data/*.csv
 data/*.zip
 data/processed/*.csv
+data/experiments/*.csv
+
 data/raw/*.csv
 
 # C extensions

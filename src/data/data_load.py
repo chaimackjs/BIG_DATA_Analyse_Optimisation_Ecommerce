@@ -6,7 +6,7 @@ import os
 # Charger les variables d'environnement à partir du fichier .env
 load_dotenv()
 
-class dataLoad:
+class DataLoad:
 
     def __init__(self, datasets=None):
         self.RAW_PATH = os.getenv('RAW_PATH')
